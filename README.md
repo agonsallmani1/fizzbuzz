@@ -1,4 +1,4 @@
-##"FizzBuzz" rest service
+## "FizzBuzz" rest service
 
 #### Used technologies:
 * Java 1.8
